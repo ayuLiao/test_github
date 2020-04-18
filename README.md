@@ -4,7 +4,7 @@
 
 按<kbd>t</kbd>进入搜索
 
-颜色描述: `#C6E48B` `#7AC96F` `#249A3C` `#196127`
+GitHub contribution graph colors: `#C6E48B` `#7AC96F` `#249A3C` `#196127`
 
 代码差异对比：
 
